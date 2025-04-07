@@ -57,11 +57,11 @@ Supported APIs currently include:
 
 ## System Prompts
 Define and manage multiple system prompts to tailor the AI's behavior for specific tasks, languages, or frameworks.
-- **Multiple Profiles:** Create and save distinct system prompts (e.g., "Python Expert," "React Component Generator," "Documentation Writer").
+- **Multiple Profiles:** Create and save distinct system prompts (e.g., "Python Expert," "React Component Generator," "Documentation Writer").  
 ![System Prompts Preview](https://raw.githubusercontent.com/Signal-Loop/Loop-public/refs/heads/main/Pages/Media/SystemPromptSelectList.png)
-- **Easy Switching:** Select the most appropriate system prompt for your current task at any time.
+- **Easy Switching:** Select the most appropriate system prompt for your current task at any time.  
 ![System Prompts Preview](https://raw.githubusercontent.com/Signal-Loop/Loop-public/refs/heads/main/Pages/Media/SystemPromptSelectButton.png)
-- **Template System:** Enhance reusability and modularity by creating system prompt templates. Reference other prompts as "building blocks" to construct complex instructions efficiently. Leverage community resources like Cursor.directory or awesome-cursorrules for inspiration.
+- **Template System:** Enhance reusability and modularity by creating system prompt templates. Reference other prompts as "building blocks" to construct complex instructions efficiently. Leverage community resources like Cursor.directory or awesome-cursorrules for inspiration.  
 ![System Prompts Preview](https://raw.githubusercontent.com/Signal-Loop/Loop-public/refs/heads/main/Pages/Media/SystemPromptTemplate.png)
 
 ### Configuration:
