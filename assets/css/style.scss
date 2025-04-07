@@ -3,9 +3,18 @@
 
 @import "{{ site.theme }}";
 
-.markdown-body h1 {
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
+    color: #333;        // Sets the text color to a dark gray
     text-align: center;
     font-family: 'Lato', 'Inter', sans-serif;
     border-bottom: none; // Removes any border under the h1
     margin-bottom: 0;    // Removes any margin below the h1
+}
+
+.markdown-body h1 {    
+    font-size: 3em;
+}
+
+.markdown-body h2 {
+    font-size: 2.5em;
 }
