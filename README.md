@@ -12,7 +12,7 @@ Loop is a highly customizable AI coding assistant, specifically designed to stre
 - **Iterative Refinement (Rewind):** Easily undo the last interaction (prompt and response) to refine your request, adjust settings, or change the context without losing your place.
 - **Flexible Prompting:** Utilize any compatible AI model, define custom system prompts, and precisely control the context sent to the model.
 
-![Wingman process preview](https://raw.githubusercontent.com/Signal-Loop/Loop-public/refs/heads/main/Pages/Media/WingmanProcessMini.png)
+![Wingman process preview](https://raw.githubusercontent.com/Signal-Loop/Loop-public/refs/heads/main/Pages/Media/WingmanProcessMini.png){:.left}
 
 ## Code Generation
 Loop empowers you to generate new code or modify existing files based on your prompts. Following a generation request, Loop presents a clear overview of proposed changes:
