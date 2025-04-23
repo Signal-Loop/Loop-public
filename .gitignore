@@ -1,0 +1,9 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.loop-coder
+.loop
+.vscode
+package-lock.json
