@@ -1,5 +1,7 @@
-# Loop Coder
-Loop is a highly customizable AI coding assistant, specifically designed to streamline complex, multi-file development workflows.
+# Loop Coder for Visual Studio Code
+Loop Coder for Visual Studio Code is a highly customizable AI coding assistant, specifically designed to streamline complex, multi-file development workflows.
+
+[Install from Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SignalLoop.loop-coder)
 
 - [Quickstart](#quickstart)
 - [Features](#features)
@@ -14,7 +16,7 @@ Loop is a highly customizable AI coding assistant, specifically designed to stre
 
 Follow these steps to quickly start using Loop Coder in your workspace:
 
-1.  **Install Loop Coder:** Ensure you have the Loop Coder extension installed in your code editor.
+1.  **Install Loop Coder:** Ensure you have the Loop Coder extension installed in your code editor. [Install from Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SignalLoop.loop-coder)
 2.  **Open Loop Coder Extension** Run `View: Show Loop Coder` command.
 2.  **Add your first Model:**
     - Run `Loop Coder: Add Model Configuration` command or click `Loop Model` on status bar.
